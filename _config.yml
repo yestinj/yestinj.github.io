@@ -23,29 +23,24 @@ title: yestin.dev # the main title
 tagline:  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Development blog
+  Yestin's blog
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://yestin.dev"
 
-#github:
-#  username: yestinj # change to your github username
+github:
+  username: yestinj
 
-#twitter:
-#  username: yestinj # change to your twitter username
+twitter:
+  username: yestinj
 
 social:
-  # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Yestin
-  email: me@yestin.dev # change to your email address
+  email: me@yestin.dev
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/yestinj # change to your twitter homepage
-    #- https://github.com/yestinj # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/yestinj
+    - https://github.com/yestinj
 
 google_site_verification: # fill in to your verification string
 
@@ -80,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-#avatar: https://avatars.githubusercontent.com/u/1382137
+avatar: https://avatars.githubusercontent.com/u/1382137
 
 # boolean type, the global switch for TOC in posts.
 toc: true
